@@ -1,1 +1,2 @@
-this is my notes and u can have a look and suggest me improve my code .THanks for your time
+hello my name is rei peter and im learning python.
+welcome to my repository
